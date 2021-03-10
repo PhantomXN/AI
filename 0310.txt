@@ -1,0 +1,5 @@
+Google Translation 只有特定在翻譯領域上，故是弱AI
+Siri 只有特定在聊天領域上，故是弱AI
+Alexa 只有特定在聊天領域上，故是弱AI
+Google Assistant 只有特定在聊天領域上，故是弱AI
+Alpha Go只有特定在下棋的領域上，故是弱AI
